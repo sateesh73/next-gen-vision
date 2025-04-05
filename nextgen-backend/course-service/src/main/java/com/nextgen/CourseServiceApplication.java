@@ -1,4 +1,4 @@
-package com.gen.next;
+package com.nextgen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
